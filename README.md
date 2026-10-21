@@ -4,6 +4,8 @@
 💼 **Je recherche une alternance de 12 mois** en développement (1 semaine entreprise / 1 semaine école) en Île-de-France — disponible immédiatement
 📍 Évry-Courcouronnes (91)
 
+✅ **Projet publié et en production** — 🌐 [Tester la démo en ligne](https://taskflow-sadio.onrender.com/docs) *(premier chargement ~50 s)*
+
 ## 🛠️ Compétences
 - **Langages :** Python, Java, SQL, HTML, CSS
 - **Back-end :** FastAPI, API REST, SQLite
